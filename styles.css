@@ -3,10 +3,43 @@ h1{
     color: white;
 }
 body{
-    background-color: violet;
+    background-color: gray;
     color: white;
 }
 img{
-    width: 40%;
-    height: 40%;
+    width: 25%;
+    height: 15%;
+}
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.p3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p1{
+    font-size: x-large;
+}
+.p2{
+    font-size: x-large;
+}
+.p3{
+    font-size: x-large;
+}
+.p1{
+    font-weight: 600;
+}
+.p2{
+    font-weight: 600;
+}
+.p3{
+    font-weight: 600;
+}
+.p1{
+    font-style: normal;
+}
+.p2{
+    font-style: normal;
 }
